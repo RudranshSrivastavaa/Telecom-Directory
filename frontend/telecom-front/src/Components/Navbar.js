@@ -13,9 +13,6 @@ const Navbar = () => {
             <Nav.Link href="/add">Add</Nav.Link>
             <Nav.Link href="/del">Delete</Nav.Link>
           </Nav>
-          <Nav>
-            <Nav.Link href="#login">Login</Nav.Link>
-          </Nav>
         </BootstrapNavbar.Collapse>
       </Container>
     </BootstrapNavbar>

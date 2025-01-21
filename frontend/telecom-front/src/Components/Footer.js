@@ -36,19 +36,18 @@ function Footer() {
           <div className="row mt-3">
             <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
               <h6 className="text-uppercase fw-bold mb-4 text-light">
-                <FontAwesomeIcon icon={faGem} className="me-3" />Company name
+                <FontAwesomeIcon icon={faGem} className="me-3" />Telecom
               </h6>
               <p className="text-light">
-                Here you can use rows and columns to organize your footer content. Lorem ipsum
-                dolor sit amet, consectetur adipisicing elit.
+              The Telecom Directory project is a full-stack application designed to manage and retrieve telecom-related data efficiently through a user-friendly interface and robust backend API.
               </p>
             </div>
             <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
               <h6 className="text-uppercase fw-bold mb-4 text-light">Products</h6>
-              <p><a href="#!" className="text-light">Angular</a></p>
+              <p><a href="#!" className="text-light">Node</a></p>
               <p><a href="#!" className="text-light">React</a></p>
-              <p><a href="#!" className="text-light">Vue</a></p>
-              <p><a href="#!" className="text-light">Laravel</a></p>
+              <p><a href="#!" className="text-light">Express</a></p>
+              <p><a href="#!" className="text-light">Bootstrap</a></p>
             </div>
             <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
               <h6 className="text-uppercase fw-bold mb-4 text-light">Useful links</h6>
@@ -59,10 +58,9 @@ function Footer() {
             </div>
             <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
               <h6 className="text-uppercase fw-bold mb-4 text-light">Contact</h6>
-              <p className="text-light"><FontAwesomeIcon icon={faHome} className="me-3" />New York, NY 10012, US</p>
-              <p className="text-light"><FontAwesomeIcon icon={faEnvelope} className="me-3" />info@example.com</p>
-              <p className="text-light"><FontAwesomeIcon icon={faPhone} className="me-3" />+01 234 567 88</p>
-              <p className="text-light"><FontAwesomeIcon icon={faPrint} className="me-3" />+01 234 567 89</p>
+              <p className="text-light"><FontAwesomeIcon icon={faHome} className="me-3" />Odisha, 769008 Rourkela, India</p>
+              <p className="text-light"><FontAwesomeIcon icon={faEnvelope} className="me-3" />rudransh15srivastava23@gmail.com</p>
+              <p className="text-light"><FontAwesomeIcon icon={faPhone} className="me-3" />+91 9026950002</p>
             </div>
           </div>
         </div>
